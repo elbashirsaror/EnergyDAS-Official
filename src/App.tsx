@@ -33,7 +33,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#d2d6dc] text-slate-900 font-sans flex flex-col justify-center items-center p-0 sm:p-2 lg:p-4 selection:bg-blue-600 selection:text-white">
+    /* <div className="min-h-screen bg-[#d2d6dc] text-slate-900 font-sans flex flex-col justify-center items-center p-0 sm:p-2 lg:p-4 selection:bg-blue-600 selection:text-white">
       {/* Direct Project ZIP Download Banner */}
       <div className="w-full max-w-[1360px] mb-2 px-3 py-1.5 rounded bg-slate-800 text-slate-200 text-xs flex flex-wrap items-center justify-between gap-2 shadow-md">
         <div className="flex items-center gap-2">
@@ -96,6 +96,6 @@ export default function App() {
         onClose={() => setSelectedProduct(null)}
         onRequestQuote={() => setQuoteModalOpen(true)}
       />
-    </div>
+    </div>*/
   );
 }
