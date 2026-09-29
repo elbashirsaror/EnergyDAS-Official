@@ -1,11 +1,31 @@
-<div align="center">
+# energyDAS Landing Page
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Industrial Energy Controls, Monitoring & Automation landing page.
 
-  <h1>Built with AI Studio</h2>
+## Quick Start
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1. Install dependencies:
+```bash
+npm install
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+2. Start the development server:
+```bash
+npm run dev
+```
 
-</div>
+3. Build for production:
+```bash
+npm run build
+```
+
+## Features
+- **Faithful Reproduction**: Exact home page layout, structure, color scheme, and typography from the energyDAS industrial reference.
+- **Interactive Modals**:
+  - energyDAS Portal Cloud SCADA simulator with live submeter circuits and CSV export.
+  - energyDAS Systems hardware specifications.
+  - energyDAS Engineering services and audit request.
+  - energyDAS Studio™ 3D building modeling and load simulation.
+  - Certified Partner application.
+  - Full news releases with images and milestones.
+- **Responsive Design**: Optimized for 1440px desktop baseline, laptops, and mobile viewports.

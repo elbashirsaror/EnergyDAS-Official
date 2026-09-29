@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Dynamics — Enterprise Systems & Engineering",
+  "description": "Enterprise-grade digital architecture, high-throughput distributed systems, and resilient engineering infrastructure for global organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
