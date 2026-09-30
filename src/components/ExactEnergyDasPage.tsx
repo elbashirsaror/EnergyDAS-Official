@@ -325,18 +325,26 @@ export function ExactEnergyDasPage({
           <div className="flex flex-wrap items-center justify-between gap-4 text-xs font-bold text-slate-700">
             {/* USPS Logo representation */}
             <div className="flex items-center gap-1.5 text-slate-800 font-extrabold tracking-tighter">
-              <div className="w-5 h-4 bg-[#1e4381] text-white text-[9px] flex items-center justify-center font-bold">
-                ★
+              <div className="w-10 h-10 bg-[#1e4381] text-white text-[9px] flex items-center justify-center font-bold">
+                <img
+                  src="/images/clients/USPS.JPG"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                />
               </div>
-              <span className="text-[11px] font-sans">UNITED STATES POSTAL SERVICE</span>
+             
             </div>
 
             {/* Mercedes-Benz */}
             <div className="flex items-center gap-1 text-slate-800 font-medium">
-              <div className="w-4 h-4 rounded-full border border-slate-500 flex items-center justify-center text-[10px] font-bold">
-                ⊗
+              <div className="w-10 h-10 rounded-full border border-slate-500 flex items-center justify-center text-[10px] font-bold">
+                <img
+                  src="/images/clients/MERCEDES.png"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                />
               </div>
-              <span className="text-[11px] tracking-wider uppercase font-semibold">Mercedes-Benz</span>
+             
             </div>
 
             {/* TOYOTA */}
@@ -356,23 +364,40 @@ export function ExactEnergyDasPage({
 
             {/* NISSAN */}
             <div className="flex items-center gap-1 text-slate-700 font-bold tracking-widest text-[11px]">
-              <span>NISSAN</span>
+              <span><img
+                  src="/images/clients/NISSAN.png"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                /></span>
             </div>
 
             {/* DTE Energy */}
             <div className="flex items-center gap-1 text-[#244c8c] font-black text-xs">
-              <span>DTE Energy</span>
+              <span><img
+                  src="/images/clients/DTE(2).JPG"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                /></span>
             </div>
 
             {/* SKYLINE */}
             <div className="flex items-center gap-1 text-slate-800 font-semibold text-[11px]">
-              <span>SKYLINE CORP</span>
+              <span><img
+                  src="/images/clients/USPS.JPG"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                /></span>
             </div>
 
             {/* Certified Blue Oval */}
-            <div className="px-2 py-0.5 rounded-full border border-[#1e4381] bg-[#1e4381]/5 text-[#1e4381] text-[10px] font-bold">
-              CERTIFIED
+            <div className="flex items-center gap-1 text-slate-800 font-semibold text-[11px]">
+              <span><img
+                  src="/images/clients/Moryde.JPEG"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                /></span>
             </div>
+
           </div>
         </div>
 
