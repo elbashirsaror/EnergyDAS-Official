@@ -40,7 +40,7 @@ export default function App() {
       {/* The Exact energyDAS Home Page Container as depicted in the uploaded reference */}
       <ExactEnergyDasPage
         // onOpenPortalModal={() => setPortalModalOpen(true)}
-        onOpenPartnerModal={() => setPartnerModalOpen(true)}
+        // onOpenPartnerModal={() => setPartnerModalOpen(true)}
         onOpenAuditModal={handleOpenContactModal}
         onOpenStudioModal={() => setStudioModalOpen(true)}
         onOpenSystemsSpecs={handleSystemsSpecs}
@@ -71,11 +71,11 @@ export default function App() {
         onConsult={handleOpenContactModal}
       />
 
-      <PartnerModal
+      {  /*<PartnerModal
         isOpen={partnerModalOpen}
         onClose={() => setPartnerModalOpen(false)}
         onContact={handleOpenContactModal}
-      />
+      />*/}
 
       <ProductDetailModal
         product={selectedProduct}
