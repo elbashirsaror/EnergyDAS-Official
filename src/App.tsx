@@ -41,8 +41,8 @@ export default function App() {
       <ExactEnergyDasPage
         // onOpenPortalModal={() => setPortalModalOpen(true)}
         // onOpenPartnerModal={() => setPartnerModalOpen(true)}
-        onOpenAuditModal={handleOpenContactModal}
-        onOpenStudioModal={() => setStudioModalOpen(true)}
+        //onOpenAuditModal={handleOpenContactModal}
+        //onOpenStudioModal={() => setStudioModalOpen(true)}
         onOpenSystemsSpecs={handleSystemsSpecs}
         onSelectNews={(news) => setSelectedNews(news)}
       />
