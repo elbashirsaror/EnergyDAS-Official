@@ -340,11 +340,11 @@ export function ExactEnergyDasPage({
             </div>
 
             {/* TOYOTA */}
-            <div className="flex items-center gap-1 w=10 h=10 rounded text-[#cc1b23] font-black tracking-tight text-xs">
-              <span><img
+            <div className="flex items-center gap-1 text-[#cc1b23] font-black tracking-tight text-xs">
+              <span ><img
                   src="/images/clients/TOYOTA.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-full h-full object-cover"
+                  className="w-10 h-10 object-cover"
                 /></span>
             </div>
 
