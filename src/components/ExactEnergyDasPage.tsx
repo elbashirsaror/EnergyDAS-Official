@@ -323,7 +323,7 @@ export function ExactEnergyDasPage({
             <div className="flex items-center gap-1.5 text-slate-800 font-extrabold tracking-tighter">
               <div className="w-10 h-10 bg-[#1e4381] text-white text-[9px] flex items-center justify-center font-bold">
                 <img
-                  src="/images/clients/USPS.JPG"
+                  src="/images/clients/usps.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-10 h-10 object-cover"
                 />
@@ -376,7 +376,7 @@ export function ExactEnergyDasPage({
             {/* DTE Energy */}
             <div className="flex items-center gap-1 text-[#244c8c] font-black text-xs">
               <span><img
-                  src="/images/clients/DTE(2).JPG"
+                  src="/images/clients/DTE (2).jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-10 h-10 object-cover"
                 /></span>
@@ -385,7 +385,7 @@ export function ExactEnergyDasPage({
             {/* SKYLINE */}
             <div className="flex items-center gap-1 text-slate-800 font-semibold text-[11px]">
               <span><img
-                  src="/images/clients/USPS.JPG"
+                  src="/images/clients/usps.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-10 h-10 object-cover"
                 /></span>
@@ -394,7 +394,7 @@ export function ExactEnergyDasPage({
             {/* Certified Blue Oval */}
             <div className="flex items-center gap-1 text-slate-800 font-semibold text-[11px]">
               <span><img
-                  src="/images/clients/Moryde.JPEG"
+                  src="/images/clients/Moryde.jpeg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-10 h-10 object-cover"
                 /></span>
