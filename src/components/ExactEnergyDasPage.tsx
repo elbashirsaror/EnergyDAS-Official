@@ -358,8 +358,14 @@ export function ExactEnergyDasPage({
 
             {/* PATRICK INDUSTRIES, INC. */}
             <div className="flex items-center gap-1 text-slate-800 font-bold tracking-tight text-xs">
-              <span className="font-serif">PATRICK</span>
-              <span className="text-[9px] text-slate-500 font-sans">INDUSTRIES, INC.</span>
+              <span>
+              <span><img
+                  src="/images/clients/Patrick.png"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-10 h-10 object-cover"
+                /></span>
+          
+              
             </div>
 
             {/* NISSAN */}
