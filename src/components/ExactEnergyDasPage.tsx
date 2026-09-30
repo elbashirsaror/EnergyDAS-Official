@@ -91,16 +91,7 @@ export function ExactEnergyDasPage({
               <span>Language</span>
               <ChevronDown className="h-3 w-3" />
             </div>
-            <span className="text-blue-300">|</span>
-            <a
-              href="/energydas-landing-page.zip"
-              download="energydas-landing-page.zip"
-              className="inline-flex items-center gap-1 bg-[#163566] hover:bg-[#0f2447] text-white px-2.5 py-0.5 rounded font-bold transition-colors shadow-xs"
-              title="Download Full Project ZIP File"
-            >
-              <Download className="h-3 w-3 text-cyan-300" />
-              <span>Download ZIP</span>
-            </a>
+           
           </div>
         </div>
       </div>
