@@ -52,7 +52,7 @@ export default function App() {
         isOpen={portalModalOpen}
         onClose={() => setPortalModalOpen(false)}
         onConsult={handleOpenContactModal}
-      />*/}
+      />
 
       <StudioDemoModal
         isOpen={studioModalOpen}
@@ -64,7 +64,7 @@ export default function App() {
         isOpen={quoteModalOpen}
         onClose={() => setQuoteModalOpen(false)}
       />
-
+*/}
       <NewsDetailModal
         news={selectedNews}
         onClose={() => setSelectedNews(null)}
