@@ -341,7 +341,11 @@ export function ExactEnergyDasPage({
 
             {/* TOYOTA */}
             <div className="flex items-center gap-1 text-[#cc1b23] font-black tracking-tight text-xs">
-              <span>TOYOTA</span>
+              <span><img
+                  src="/images/clients/TOYOTA.png"
+                  alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
+                  className="w-full h-full object-cover"
+                /></span>
             </div>
 
             {/* PATRICK INDUSTRIES, INC. */}
