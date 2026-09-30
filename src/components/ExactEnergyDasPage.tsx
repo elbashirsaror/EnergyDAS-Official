@@ -472,7 +472,7 @@ export function ExactEnergyDasPage({
             >
               <div className="w-full aspect-4/3 rounded overflow-hidden border border-slate-200 bg-white">
                 <img
-                  src="/images/Picture of PLC.jpg"
+                  src="/images/PLC.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-full h-full object-cover"
                 />
@@ -509,7 +509,7 @@ export function ExactEnergyDasPage({
             >
               <div className="w-full aspect-4/3 rounded overflow-hidden border border-slate-200 bg-white">
                 <img
-                  src="/images/Smiling Engineer - energyDAS.png"
+                  src="/images/SmilingEngineer.png"
                   alt="energyDAS Engineering Services and Systems Analysis"
                   className="w-full h-full object-cover object-top"
                 />
