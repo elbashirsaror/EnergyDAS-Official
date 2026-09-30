@@ -43,8 +43,8 @@ export default function App() {
         // onOpenPartnerModal={() => setPartnerModalOpen(true)}
         //onOpenAuditModal={handleOpenContactModal}
         //onOpenStudioModal={() => setStudioModalOpen(true)}
-        onOpenSystemsSpecs={handleSystemsSpecs}
-        onSelectNews={(news) => setSelectedNews(news)}
+        //onOpenSystemsSpecs={handleSystemsSpecs}
+       // onSelectNews={(news) => setSelectedNews(news)}
       />
 
       {/* Interactive Modals when User Explores the Page */}
