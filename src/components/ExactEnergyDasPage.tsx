@@ -176,7 +176,7 @@ export function ExactEnergyDasPage({
               {/* Machine Image on Left/Center */}
               <div className="w-full md:w-3/5 h-full min-h-[220px] md:min-h-[300px] relative bg-slate-100 overflow-hidden">
                 <img
-                  src="/images/hero_energy_controls_factry_1790438072624.jpg"
+                  src="/images/he2624.jpg"
                   alt="energyDAS Factory Machine Press and Industrial Automation"
                   className="w-full h-full object-cover object-left"
                 />
