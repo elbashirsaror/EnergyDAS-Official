@@ -472,7 +472,7 @@ export function ExactEnergyDasPage({
             >
               <div className="w-full aspect-4/3 rounded overflow-hidden border border-slate-200 bg-white">
                 <img
-                  src="/src/assets/images/systems_plc_hardware_1790438086910.jpg"
+                  src="/images/Picture of PLC.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-full h-full object-cover"
                 />
@@ -509,7 +509,7 @@ export function ExactEnergyDasPage({
             >
               <div className="w-full aspect-4/3 rounded overflow-hidden border border-slate-200 bg-white">
                 <img
-                  src="/src/assets/images/engineering_services_team_1790438099297.jpg"
+                  src="/images/Smiling Engineer - energyDAS.png"
                   alt="energyDAS Engineering Services and Systems Analysis"
                   className="w-full h-full object-cover object-top"
                 />
@@ -546,7 +546,7 @@ export function ExactEnergyDasPage({
             >
               <div className="w-full aspect-4/3 rounded overflow-hidden border border-slate-200 bg-white">
                 <img
-                  src="/src/assets/images/studio_building_energy_model_1790438111503.jpg"
+                  src="/images/Studio.png"
                   alt="energyDAS Studio Whole Building Energy Modeling Software"
                   className="w-full h-full object-cover"
                 />
