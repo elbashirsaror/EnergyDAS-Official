@@ -9,7 +9,7 @@ interface TopBarProps {
 }
 
 export function TopBar({ onOpenPortalModal, onOpenContactModal, onSelectProduct }: TopBarProps) {
-  const [searchQuery, setSearchQuery] = useState('');
+  {/* const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<ProductCodeItem[]>([]);
   const [showSearchResults, setShowSearchResults] = useState(false);
   const [voltageStandard, setVoltageStandard] = useState<'us' | 'global'>('us');
@@ -228,5 +228,5 @@ export function TopBar({ onOpenPortalModal, onOpenContactModal, onSelectProduct 
         )}
       </div>
     </header>
-  );
+  );*/}
 }
