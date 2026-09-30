@@ -64,7 +64,7 @@ export default function App() {
         isOpen={quoteModalOpen}
         onClose={() => setQuoteModalOpen(false)}
       />
-*/}
+
       <NewsDetailModal
         news={selectedNews}
         onClose={() => setSelectedNews(null)}
@@ -75,13 +75,13 @@ export default function App() {
         isOpen={partnerModalOpen}
         onClose={() => setPartnerModalOpen(false)}
         onContact={handleOpenContactModal}
-      />*/}
+      />
 
       <ProductDetailModal
         product={selectedProduct}
         onClose={() => setSelectedProduct(null)}
         onRequestQuote={() => setQuoteModalOpen(true)}
-      />
+      />*/}
     </div>
   );
 }
