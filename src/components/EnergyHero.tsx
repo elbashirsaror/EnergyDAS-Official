@@ -47,7 +47,7 @@ export function EnergyHero({ onOpenAuditModal, onOpenPartnerModal, onSelectNews 
               {/* High-Impact Industrial Facility & Press Machine Image */}
               <div className="relative aspect-16/9 sm:aspect-21/9 w-full bg-slate-950 overflow-hidden">
                 <img
-                  src="/src/assets/images/hero_energy_controls_factory_1790438072624.jpg"
+                  src="/src/assets/images/hero_energy_coctory_1790438072624.jpg"
                   alt="energyDAS Industrial Machine Controls and Factory Automation"
                   referrerPolicy="no-referrer"
                   className="h-full w-full object-cover object-center"
