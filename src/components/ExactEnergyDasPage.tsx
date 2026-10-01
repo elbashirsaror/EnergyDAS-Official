@@ -268,7 +268,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/images/DrFelixAward.png"
+                    src="/images/DrFelixAward.PNG"
                     alt="Dr. Felix Goto receiving award"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
@@ -286,7 +286,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/images/DASPartners.png"
+                    src="/images/DASPartners.PNG"
                     alt="Substation smartgrids Asia"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
@@ -304,7 +304,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/src/assets/images/contractDallas.png"
+                    src="/src/assets/images/contractDallas.PNG"
                     alt="Dallas Texas Building"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
