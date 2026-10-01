@@ -304,7 +304,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/src/assets/images/contractDallas.PNG"
+                    src="/images/contractDallas.PNG"
                     alt="Dallas Texas Building"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
@@ -325,11 +325,11 @@ export function ExactEnergyDasPage({
           <div className="flex flex-wrap items-center justify-between gap-4 text-xs font-bold text-slate-700">
             {/* USPS Logo representation */}
             <div className="flex items-center gap-1.5 text-slate-800 font-extrabold tracking-tighter">
-              <div className="w-10 h-10 bg-[#1e4381] text-white text-[9px] flex items-center justify-center font-bold">
+              <div className="w-15 h-15 bg-[#1e4381] text-white text-[9px] flex items-center justify-center font-bold">
                 <img
                   src="/images/clients/usps.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-full h-full object-cover"
                 />
               </div>
              
@@ -337,11 +337,11 @@ export function ExactEnergyDasPage({
 
             {/* Mercedes-Benz */}
             <div className="flex items-center gap-1 text-slate-800 font-medium">
-              <div className="w-10 h-10 rounded-full border border-slate-500 flex items-center justify-center text-[10px] font-bold">
+              <div className="w-15 h-15 rounded-full border border-slate-500 flex items-center justify-center text-[10px] font-bold">
                 <img
                   src="/images/clients/MERCEDES.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-full h-full object-cover"
                 />
               </div>
              
@@ -352,7 +352,7 @@ export function ExactEnergyDasPage({
               <span ><img
                   src="/images/clients/TOYOTA.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-15 h-15 object-cover"
                 /></span>
             </div>
 
@@ -362,7 +362,7 @@ export function ExactEnergyDasPage({
               <span><img
                   src="/images/clients/Patrick.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-15 h-15 object-cover"
                 /></span>
             </div>
 
@@ -371,7 +371,7 @@ export function ExactEnergyDasPage({
               <span><img
                   src="/images/clients/NISSAN.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-15 h-15 object-cover"
                 /></span>
             </div>
 
@@ -380,7 +380,7 @@ export function ExactEnergyDasPage({
               <span><img
                   src="/images/clients/DTE (2).jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-15 h-15 object-cover"
                 /></span>
             </div>
 
@@ -389,7 +389,7 @@ export function ExactEnergyDasPage({
               <span><img
                   src="/images/clients/usps.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-15 h-15 object-cover"
                 /></span>
             </div>
 
@@ -398,7 +398,7 @@ export function ExactEnergyDasPage({
               <span><img
                   src="/images/clients/Moryde.jpeg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-10 h-10 object-cover"
+                  className="w-15 h-15 object-cover"
                 /></span>
             </div>
 
