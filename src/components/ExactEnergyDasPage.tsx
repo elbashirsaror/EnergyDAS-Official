@@ -175,7 +175,11 @@ export function ExactEnergyDasPage({
             <div className="relative w-full h-full min-h-[300px] flex flex-col md:flex-row items-center justify-between">
               {/* Machine Image on Left/Center */}
               <div className="w-full md:w-3/5 h-full min-h-[220px] md:min-h-[300px] relative bg-slate-100 overflow-hidden">
-          
+                <img
+                    src="/images/banner.png"
+                    alt="Substation smartgrids Asia"
+                    className="w-11 h-11 object-cover border border-slate-300 shrink-0"
+                  />
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-transparent to-white/95 hidden md:block" />
               </div>
 
@@ -264,7 +268,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/src/assets/images/news_award_dr_goto_1790438491460.jpg"
+                    src="/images/DrFelixAward.png"
                     alt="Dr. Felix Goto receiving award"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
@@ -282,7 +286,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/src/assets/images/news_smartgrid_substation_1790438502081.jpg"
+                    src="/images/DASPartners.png"
                     alt="Substation smartgrids Asia"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
@@ -300,7 +304,7 @@ export function ExactEnergyDasPage({
                   className="py-1.5 flex items-start gap-2 hover:bg-slate-50 cursor-pointer transition-colors"
                 >
                   <img
-                    src="/src/assets/images/news_dallas_building_1790438513579.jpg"
+                    src="/src/assets/images/contractDallas.png"
                     alt="Dallas Texas Building"
                     className="w-11 h-11 object-cover border border-slate-300 shrink-0"
                   />
