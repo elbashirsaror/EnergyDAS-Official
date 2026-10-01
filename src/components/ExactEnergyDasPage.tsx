@@ -178,7 +178,7 @@ export function ExactEnergyDasPage({
                 <img
                     src="/images/banner.png"
                     alt="Substation smartgrids Asia"
-                    className="w-11 h-11 object-cover border border-slate-300 shrink-0"
+                    className="w-full h-full object-cover border border-slate-300 shrink-0"
                   />
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-transparent to-white/95 hidden md:block" />
               </div>
