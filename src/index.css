@@ -3,14 +3,14 @@
 @font-face {
   font-family: 'GE-INSPIRA-BOLD';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 700;
+  font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'GE-INSPIRA-NORMAL';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
 }
 
