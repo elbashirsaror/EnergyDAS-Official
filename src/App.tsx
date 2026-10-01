@@ -38,14 +38,14 @@ export default function App() {
      
 
       {/* The Exact energyDAS Home Page Container as depicted in the uploaded reference */}
-      <ExactEnergyDasPage
+  {/*<ExactEnergyDasPage
         // onOpenPortalModal={() => setPortalModalOpen(true)}
         // onOpenPartnerModal={() => setPartnerModalOpen(true)}
         //onOpenAuditModal={handleOpenContactModal}
         //onOpenStudioModal={() => setStudioModalOpen(true)}
         //onOpenSystemsSpecs={handleSystemsSpecs}
        // onSelectNews={(news) => setSelectedNews(news)}
-      />
+      />*/}
 
       {/* Interactive Modals when User Explores the Page */}
       {/* <PortalDemoModal
