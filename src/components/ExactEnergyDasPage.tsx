@@ -173,7 +173,56 @@ export function ExactEnergyDasPage({
           <div className="lg:col-span-9 bg-white border border-slate-300 shadow-xs relative overflow-hidden flex flex-col justify-between min-h-[310px]">
             {/* Split layout: Industrial machinery on the left, copy on the right */}
             
+<div className="relative w-full h-full min-h-[300px] flex flex-col md:flex-row items-center justify-between">
+              {/* Machine Image on Left/Center */}
+              <div className="w-full md:w-3/5 h-full min-h-[220px] md:min-h-[300px] relative bg-slate-100 overflow-hidden">
+                <img
+                    src="/images/banner.png"
+                    alt="Substation smartgrids Asia"
+                    className="w-full h-full object-cover border border-slate-300 shrink-0"
+                  />
+                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-transparent to-white/95 hidden md:block" />
+              </div>
+              {/* Text Copy on Right (Directly matching the screenshot typography) */}
+              <div className="w-full md:w-2/5 p-4 sm:p-6 flex flex-col justify-center text-left bg-white/95 md:bg-transparent z-10">
+                <h1 className="text-2xl sm:text-3xl font-extrabold text-[#111827] tracking-tight font-sans">
+                  energyDAS Controls
+                </h1>
 
+                <p className="mt-2 text-xs sm:text-sm text-[#4b5563] leading-snug">
+                  Measure, Monitor & Control from simple systems to complex machines and processes
+                </p>
+
+                {/* Bullet List with Dashes */}
+                <ul className="mt-4 space-y-1.5 text-xs text-[#374151] font-medium">
+                  <li className="flex items-start gap-1.5">
+                    <span className="font-bold text-[#1f2937]">-</span>
+                    <span>Single phase & 3 phase</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="font-bold text-[#1f2937]">-</span>
+                    <span>Universal Voltages for worldwide usage</span>
+                  </li>
+                  <li className="flex items-start gap-1.5">
+                    <span className="font-bold text-[#1f2937]">-</span>
+                    <span>50Hz to 60Hz</span>
+                  </li>
+                </ul>
+
+                <div className="mt-5 flex items-center gap-2">
+                  <button
+                    onClick={onOpenAuditModal}
+                    className="bg-[#244c8c] hover:bg-[#1a3869] text-white text-[11px] font-bold px-3 py-1.5 rounded uppercase tracking-wider transition-colors cursor-pointer"
+                  >
+                    Request Information
+                  </button>
+                  <button
+                    onClick={onOpenSystemsSpecs}
+                    className="border border-slate-300 bg-white hover:bg-slate-50 text-slate-700 text-[11px] font-bold px-3 py-1.5 rounded uppercase tracking-wider transition-colors cursor-pointer"
+                  >
+                    Specs
+                  </button>
+                </div>
               </div>
             </div>
           </div>
