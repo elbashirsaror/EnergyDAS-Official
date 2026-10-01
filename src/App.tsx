@@ -82,6 +82,6 @@ export default function App() {
         onClose={() => setSelectedProduct(null)}
         onRequestQuote={() => setQuoteModalOpen(true)}
       />*/}
-    </div>
+    </div> 
   );
 }
