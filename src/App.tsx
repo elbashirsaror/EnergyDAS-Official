@@ -33,19 +33,19 @@ export default function App() {
   };
 
   return (
-    {/*<div className="min-h-screen bg-[#d2d6dc] text-slate-900 font-sans flex flex-col justify-center items-center p-0 sm:p-2 lg:p-4 selection:bg-blue-600 selection:text-white">
+    <div className="min-h-screen bg-[#d2d6dc] text-slate-900 font-sans flex flex-col justify-center items-center p-0 sm:p-2 lg:p-4 selection:bg-blue-600 selection:text-white">
       {/* hk Direct Project ZIP Download Banner */}
      
 
       {/* The Exact energyDAS Home Page Container as depicted in the uploaded reference */}
-  {/*<ExactEnergyDasPage
+  <ExactEnergyDasPage
         // onOpenPortalModal={() => setPortalModalOpen(true)}
         // onOpenPartnerModal={() => setPartnerModalOpen(true)}
         //onOpenAuditModal={handleOpenContactModal}
         //onOpenStudioModal={() => setStudioModalOpen(true)}
         //onOpenSystemsSpecs={handleSystemsSpecs}
        // onSelectNews={(news) => setSelectedNews(news)}
-      />*/}
+      />
 
       {/* Interactive Modals when User Explores the Page */}
       {/* <PortalDemoModal
@@ -82,6 +82,6 @@ export default function App() {
         onClose={() => setSelectedProduct(null)}
         onRequestQuote={() => setQuoteModalOpen(true)}
       />*/}
-    </div>*/}
+    </div>
   );
 }
