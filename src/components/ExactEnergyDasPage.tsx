@@ -329,7 +329,7 @@ export function ExactEnergyDasPage({
                 <img
                   src="/images/clients/usps.jpg"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-full h-full object-cover"
+                  className="w-14 h-14"
                 />
               </div>
              
@@ -337,11 +337,11 @@ export function ExactEnergyDasPage({
 
             {/* Mercedes-Benz */}
             <div className="flex items-center gap-1 text-slate-800 font-medium">
-              <div className="w-15 h-15 rounded-full border border-slate-500 flex items-center justify-center text-[10px] font-bold">
+              <div className="w-15 h-15  flex items-center justify-center text-[10px] font-bold">
                 <img
                   src="/images/clients/MERCEDES.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-full h-full object-cover"
+                  className="w-14 h-14 "
                 />
               </div>
              
@@ -349,10 +349,10 @@ export function ExactEnergyDasPage({
 
             {/* TOYOTA */}
             <div className="flex items-center gap-1 text-[#cc1b23] font-black tracking-tight text-xs">
-              <span ><img
+              <span className="w-15 h-15" ><img
                   src="/images/clients/TOYOTA.png"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
-                  className="w-15 h-15 object-cover"
+                  className="w-14 h-14 object-cover"
                 /></span>
             </div>
 
