@@ -48,7 +48,7 @@ export default function App() {
       />
 
       {/* Interactive Modals when User Explores the Page */}
-      {/* <PortalDemoModal
+       <PortalDemoModal
         isOpen={portalModalOpen}
         onClose={() => setPortalModalOpen(false)}
         onConsult={handleOpenContactModal}
@@ -71,7 +71,7 @@ export default function App() {
         onConsult={handleOpenContactModal}
       />
 
-      {  /*<PartnerModal
+      <PartnerModal
         isOpen={partnerModalOpen}
         onClose={() => setPartnerModalOpen(false)}
         onContact={handleOpenContactModal}
@@ -81,7 +81,7 @@ export default function App() {
         product={selectedProduct}
         onClose={() => setSelectedProduct(null)}
         onRequestQuote={() => setQuoteModalOpen(true)}
-      />*/}
+      />
     </div> 
   ); 
 }
