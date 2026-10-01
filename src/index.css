@@ -3,22 +3,22 @@
 @font-face {
   font-family: 'GE-INSPIRA-BOLD';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 900;
-  font-style: BOLD;
+  font-weight: 1000;
+  font-style: bold;
 }
 
 @font-face {
   font-family: 'GE-INSPIRA-NORMAL';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
   font-weight: 600;
-  font-style: normal;
+  font-style: bold;
 }
 
 @font-face {
   font-family: 'GE-INSPIRA-LIGHT';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
   font-weight: 600;
-  font-style: normal;
+  font-style: bold;
 }
 
 /* 2. Map them to Tailwind v4 theme variables */
