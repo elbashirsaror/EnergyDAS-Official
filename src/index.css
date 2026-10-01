@@ -4,7 +4,7 @@
   font-family: 'GE-INSPIRA-BOLD';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
   font-weight: 900;
-  font-style: normal;
+  font-style: BOLD;
 }
 
 @font-face {
@@ -17,7 +17,7 @@
 @font-face {
   font-family: 'GE-INSPIRA-LIGHT';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
 }
 
