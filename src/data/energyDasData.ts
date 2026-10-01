@@ -118,7 +118,7 @@ export const PILLARS_DATA = [
     badge: 'energyDAS Portal',
     title: 'Energy Cloud Dashboard',
     tagline: 'Cloud-based secure management, control & operations reporting with an intuitive interface.',
-    image: '/src/assets/images/hero_energy_controls_factory_1790438072624.jpg',
+    image: '/images/banner.png',
     features: [
       'Encrypted multi-tenant cloud architecture with role-based access',
       'Instant real-time kW, kVAR, power factor, and harmonic distortion graphing',
@@ -132,7 +132,7 @@ export const PILLARS_DATA = [
     badge: 'energyDAS Systems',
     title: 'Systems - Controls & Automation',
     tagline: 'Wireless PLC, metering, digital relays, analog I/O and industrial power supply units.',
-    image: '/src/assets/images/systems_plc_hardware_1790438086910.jpg',
+    image: '/images/PLC.jpg',
     features: [
       'Universal voltage input: 100V to 690V single & 3-phase (50Hz / 60Hz)',
       'Class 0.2 revenue-grade precision accuracy compliant with ANSI C12.20',
