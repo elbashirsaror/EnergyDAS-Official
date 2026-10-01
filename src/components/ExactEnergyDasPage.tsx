@@ -505,7 +505,7 @@ export function ExactEnergyDasPage({
             >
               <div className="w-full aspect-4/3 rounded overflow-hidden border border-slate-200 bg-white">
                 <img
-                  src="/images/PLC.jpg"
+                  src="/images/plcimage.JPG"
                   alt="energyDAS Systems - Wireless PLC, Metering, Digital Relay"
                   className="w-full h-full object-cover"
                 />
