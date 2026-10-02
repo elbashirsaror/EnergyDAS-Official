@@ -3,21 +3,21 @@
 @font-face {
   font-family: 'GE-INSPIRA-BOLD';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 1000;
+  font-weight: 1500;
   font-style: bold;
 }
 
 @font-face {
   font-family: 'GE-INSPIRA-NORMAL';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 600;
+  font-weight: 1000;
   font-style: bold;
 }
 
 @font-face {
   font-family: 'GE-INSPIRA-LIGHT';
   src: url('./assets/fonts/GE-INSPIRA.TTF') format('truetype');
-  font-weight: 600;
+  font-weight: 800;
   font-style: bold;
 }
 
