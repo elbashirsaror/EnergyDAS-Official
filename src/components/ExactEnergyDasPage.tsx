@@ -128,7 +128,7 @@ export function ExactEnergyDasPage({
           {/* Navigation Links (Single-Line, Uppercase, Charcoal) */}
           <nav className="hidden lg:flex items-center gap-5 text-[11px] font-bold tracking-wider text-slate-800">
             <a href="#" className="hover:text-[#244c8c] transition-colors py-1">HOME</a>
-            <button onClick={onOpenSystemsSpecs} className="hover:text-[#244c8c] transition-colors cursor-pointer py-1 uppercase">SYSTEMS</button>
+            <button onClick={onOpenSystemsSpecs} className="hover:text-[#244c8c] transition-colors font-style:bold cursor-pointer py-1 uppercase">SYSTEMS</button>
             <button onClick={onOpenAuditModal} className="hover:text-[#244c8c] transition-colors cursor-pointer py-1 uppercase">ENGINEERING</button>
             <button onClick={onOpenStudioModal} className="hover:text-[#244c8c] transition-colors cursor-pointer py-1 uppercase">APPLICATIONS</button>
             <button onClick={() => onSelectNews(NEWS_ARCHIVE[0])} className="hover:text-[#244c8c] transition-colors cursor-pointer py-1 uppercase">NEWS</button>
